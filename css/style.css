@@ -1,0 +1,29 @@
+*{ font-family: 'Raleway', sans-serif; }
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 0px solid transparent;
+border-radius: 0px;
+ border-top: 1px solid #e7e7e7;
+}
+
+.navbar-default {
+    background-color: #fff;
+    border-color: #e7e7e7;
+}
+.carousel-inner .item img
+{
+    width: 100%;
+    height: auto;
+}
+.carousel-inner .item{
+max-height: 550px;
+}
+
+.home_page{ background-color: #f6f6f6; margin-top:10px; margin-bottom:40px;  }
+.home_page h4{ margin-top:30px;}
+.home_page .home-img{ padding-right: 0px; padding-left: 0px;      }
+.home_page .small_box{ height:235px; overflow:hidden;      }
+footer{ display:block; padding: 30px 0px; border-top:1px solid #e7e7e7;}

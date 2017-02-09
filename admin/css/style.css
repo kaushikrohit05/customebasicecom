@@ -1,0 +1,11 @@
+*{ font-family: 'Raleway', sans-serif;  font-size: 13px;}
+body{ background-color: #eee; margin:0;  padding-top: 70px;
+  padding-bottom: 30px;}
+.title{ margin:10px 0px;}  
+
+.panel, .form-control, .btn
+{ border-radius: 0px;}
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
